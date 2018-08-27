@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>spittr</groupId>
-  <artifactId>Ch005F</artifactId>
+  <artifactId>Ch005G</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Ch005F Maven Webapp</name>
+  <name>Ch005G Maven Webapp</name>
   <url>http://maven.apache.org</url>
   
   <properties>
@@ -205,13 +205,13 @@
                     <version>3.2.2</version>
                     <configuration>
                         <warSourceDirectory>src/main/webapp</warSourceDirectory>
-                        <warName>Ch005F</warName>
+                        <warName>Ch005G</warName>
                         <failOnMissingWebXml>false</failOnMissingWebXml>
                     </configuration>
                 </plugin>
             </plugins>
         </pluginManagement>
   
-    <finalName>Ch005F</finalName>
+    <finalName>Ch005G</finalName>
   </build>
 </project>
